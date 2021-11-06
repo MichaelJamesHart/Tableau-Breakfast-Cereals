@@ -1,2 +1,2 @@
 # Tableau-Breakfast-Cereals
- Tableau data visualizatoin for breakfast cereal statistics.
+ Tableau data visualization for breakfast cereal statistics.
